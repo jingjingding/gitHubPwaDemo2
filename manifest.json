@@ -1,0 +1,17 @@
+{
+  "name"              : "dingjingjing",
+  "short_name"        : "zai buxing",
+  "description"       : "An example website implementing Progressive Web App technology.",
+  "start_url"         : "/index.html",
+  "display"           : "standalone",
+  "orientation"       : "any",
+  "background_color"  : "#ACE",
+  "theme_color"       : "#ACE",
+  "icons": [
+		{
+      "src"           : "/images/favicon.ico",
+      "sizes"         : "128x128",
+      "type"          : "image/png"
+    }
+	]
+}
